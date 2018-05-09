@@ -1,0 +1,1136 @@
+﻿  vmt.cpp
+  variables.cpp
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(146): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(148): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(150): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(152): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(154): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(156): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  spoofedconvar.cpp
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(146): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(148): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(150): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(152): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(154): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(156): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\convar.h(74): warning C4311: 'type cast': pointer truncation from 'const SDK::ConVar *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\convar.h(74): warning C4302: 'type cast': truncation from 'const SDK::ConVar *' to 'DWORD'
+  render.cpp
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(146): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(148): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(150): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(152): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(154): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(156): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\render.cpp(37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\render.cpp(38): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\render.cpp(46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\render.cpp(58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\render.cpp(117): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\render.cpp(121): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  offsets.cpp
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(146): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(148): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(150): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(152): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(154): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(156): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  NetvarHookManager.cpp
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(146): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(148): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(150): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(152): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(154): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(156): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  math.cpp
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(146): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(148): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(150): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(152): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(154): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(156): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\math.cpp(21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\math.cpp(26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  logging.cpp
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(146): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(148): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(150): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(152): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(154): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(156): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\logging.cpp(16): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+  interfaces.cpp
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(146): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(148): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(150): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(152): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(154): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(156): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\interfaces.cpp(31): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'SDK::CInput **' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\interfaces.cpp(48): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'SDK::CGlobalVars ***' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\interfaces.cpp(50): warning C4311: 'reinterpret_cast': pointer truncation from 'void *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\interfaces.cpp(50): warning C4302: 'reinterpret_cast': truncation from 'void *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\interfaces.cpp(50): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'SDK::COverrideView ***' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\interfaces.cpp(62): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\interfaces.cpp(67): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+  input_handler.cpp
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(146): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(148): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(150): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(152): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(154): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(156): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\input_handler.cpp(13): error C2065: 'GWL_WNDPROC': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\input_handler.cpp(13): warning C4311: 'type cast': pointer truncation from 'LRESULT (__cdecl *)(HWND,UINT,WPARAM,LPARAM)' to 'long'
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\input_handler.cpp(13): warning C4302: 'type cast': truncation from 'LRESULT (__cdecl *)(HWND,UINT,WPARAM,LPARAM)' to 'long'
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\input_handler.cpp(93): warning C4312: 'type cast': conversion from 'long' to 'WNDPROC' of greater size
+  hooks.cpp
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(146): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(148): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(150): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(152): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(154): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(156): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\checksum_crc.h(153): warning C4311: 'type cast': pointer truncation from 'unsigned char *' to 'unsigned int'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\checksum_crc.h(153): warning C4302: 'type cast': truncation from 'unsigned char *' to 'unsigned int'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\convar.h(74): warning C4311: 'type cast': pointer truncation from 'const SDK::ConVar *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\convar.h(74): warning C4302: 'type cast': truncation from 'const SDK::ConVar *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\ctrace.h(87): warning C4099: 'SDK::Ray_t': type name first seen using 'class' now seen using 'struct'
+  c:\users\michael\documents\github\ascendancy\pener sdk\sdk\ctrace.h(86): note: see declaration of 'SDK::Ray_t'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(82): warning C4244: '=': conversion from 'uintptr_t' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(99): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseAnimating *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(99): warning C4302: 'type cast': truncation from 'SDK::CBaseAnimating *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(99): warning C4312: 'type cast': conversion from 'DWORD' to 'matrix3x4_t **' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(115): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseAnimating *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(115): warning C4302: 'type cast': truncation from 'SDK::CBaseAnimating *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(115): warning C4312: 'type cast': conversion from 'DWORD' to 'matrix3x4_t **' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(193): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(193): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(207): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(207): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(207): warning C4312: 'type cast': conversion from 'DWORD' to 'SDK::CAnimationLayer **' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(211): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(211): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(211): warning C4312: 'type cast': conversion from 'DWORD' to 'SDK::CAnimationLayer **' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(224): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'int (__cdecl *)(void *,SDK::studiohdr_t *,int)' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(264): warning C4244: 'argument': conversion from 'ULONGLONG' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(308): warning C4312: 'type cast': conversion from 'DWORD' to 'Fn' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(323): warning C4312: 'type cast': conversion from 'DWORD' to 'Fn' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(333): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(333): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(333): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(337): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(337): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(337): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(354): warning C4311: '<function-style-cast>': pointer truncation from 'SDK::CBaseEntity *' to 'uint32_t'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(354): warning C4302: '<function-style-cast>': truncation from 'SDK::CBaseEntity *' to 'uint32_t'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\renderview.h(20): warning C4838: conversion from 'unsigned char' to 'float' requires a narrowing conversion
+c:\users\michael\documents\github\ascendancy\pener sdk\features\backtracking.h(297): warning C4311: 'type cast': pointer truncation from 'void *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\backtracking.h(297): warning C4302: 'type cast': truncation from 'void *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\backtracking.h(297): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'VarMapping_t *' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\hooks\hooks.cpp(75): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+c:\users\michael\documents\github\ascendancy\pener sdk\hooks\hooks.cpp(75): error C2065: 'MOV': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\hooks\hooks.cpp(75): error C2146: syntax error: missing ';' before identifier 'FPointer'
+c:\users\michael\documents\github\ascendancy\pener sdk\hooks\hooks.cpp(75): error C2065: 'EBP': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\hooks\hooks.cpp(75): error C2143: syntax error: missing ';' before '}'
+c:\users\michael\documents\github\ascendancy\pener sdk\hooks\hooks.cpp(215): warning C4311: 'type cast': pointer truncation from 'SDK::CInput *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\hooks\hooks.cpp(215): warning C4302: 'type cast': truncation from 'SDK::CInput *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\hooks\hooks.cpp(215): warning C4312: 'type cast': conversion from 'DWORD' to 'bool *' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\hooks\hooks.cpp(216): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\hooks\hooks.cpp(216): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\hooks\hooks.cpp(216): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\hooks\hooks.cpp(308): warning C4312: 'type cast': conversion from 'DWORD' to 'DWORD *' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\hooks\hooks.cpp(309): warning C4312: 'type cast': conversion from 'DWORD' to 'int *' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\hooks\hooks.cpp(428): warning C4311: 'type cast': pointer truncation from 'SDK::CInput *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\hooks\hooks.cpp(428): warning C4302: 'type cast': truncation from 'SDK::CInput *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\hooks\hooks.cpp(428): warning C4312: 'type cast': conversion from 'DWORD' to 'bool *' of greater size
+  general_utils.cpp
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(146): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(148): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(150): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(152): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(154): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(156): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(82): warning C4244: '=': conversion from 'uintptr_t' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(99): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseAnimating *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(99): warning C4302: 'type cast': truncation from 'SDK::CBaseAnimating *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(99): warning C4312: 'type cast': conversion from 'DWORD' to 'matrix3x4_t **' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(115): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseAnimating *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(115): warning C4302: 'type cast': truncation from 'SDK::CBaseAnimating *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(115): warning C4312: 'type cast': conversion from 'DWORD' to 'matrix3x4_t **' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(193): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(193): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(207): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(207): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(207): warning C4312: 'type cast': conversion from 'DWORD' to 'SDK::CAnimationLayer **' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(211): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(211): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(211): warning C4312: 'type cast': conversion from 'DWORD' to 'SDK::CAnimationLayer **' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(224): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'int (__cdecl *)(void *,SDK::studiohdr_t *,int)' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(264): warning C4244: 'argument': conversion from 'ULONGLONG' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(308): warning C4312: 'type cast': conversion from 'DWORD' to 'Fn' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(323): warning C4312: 'type cast': conversion from 'DWORD' to 'Fn' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(333): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(333): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(333): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(337): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(337): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(337): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(354): warning C4311: '<function-style-cast>': pointer truncation from 'SDK::CBaseEntity *' to 'uint32_t'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(354): warning C4302: '<function-style-cast>': truncation from 'SDK::CBaseEntity *' to 'uint32_t'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\checksum_crc.h(153): warning C4311: 'type cast': pointer truncation from 'unsigned char *' to 'unsigned int'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\checksum_crc.h(153): warning C4302: 'type cast': truncation from 'unsigned char *' to 'unsigned int'
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\general_utils.cpp(44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\general_utils.cpp(45): warning C4267: 'argument': conversion from 'size_t' to 'const unsigned int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\general_utils.cpp(75): warning C4311: 'type cast': pointer truncation from 'LPVOID' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\general_utils.cpp(75): warning C4302: 'type cast': truncation from 'LPVOID' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\general_utils.cpp(81): warning C4312: 'type cast': conversion from 'DWORD' to 'BYTE *' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\general_utils.cpp(99): warning C4311: 'type cast': pointer truncation from 'HMODULE' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\general_utils.cpp(99): warning C4302: 'type cast': truncation from 'HMODULE' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\general_utils.cpp(119): warning C4312: 'type cast': conversion from 'DWORD' to 'HMODULE' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\general_utils.cpp(123): warning C4312: 'type cast': conversion from 'unsigned long' to 'BYTE *' of greater size
+  sdk.cpp
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(146): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(148): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(150): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(152): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(154): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(156): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\checksum_crc.h(153): warning C4311: 'type cast': pointer truncation from 'unsigned char *' to 'unsigned int'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\checksum_crc.h(153): warning C4302: 'type cast': truncation from 'unsigned char *' to 'unsigned int'
+  menu_objects.cpp
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(146): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(148): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(150): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(152): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(154): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(156): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_objects.cpp(20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_objects.cpp(71): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_objects.cpp(75): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_objects.cpp(79): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_objects.cpp(100): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_objects.cpp(107): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_objects.cpp(111): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_objects.cpp(139): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_objects.cpp(153): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_objects.cpp(164): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_objects.cpp(168): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_objects.cpp(172): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_objects.cpp(174): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_objects.cpp(175): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_objects.cpp(177): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_objects.cpp(178): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_objects.cpp(180): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_objects.cpp(181): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_objects.cpp(183): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_objects.cpp(185): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_objects.cpp(187): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_objects.cpp(189): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  menu_init.cpp
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(146): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(148): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(150): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(152): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(154): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(156): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(82): warning C4244: '=': conversion from 'uintptr_t' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(99): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseAnimating *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(99): warning C4302: 'type cast': truncation from 'SDK::CBaseAnimating *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(99): warning C4312: 'type cast': conversion from 'DWORD' to 'matrix3x4_t **' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(115): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseAnimating *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(115): warning C4302: 'type cast': truncation from 'SDK::CBaseAnimating *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(115): warning C4312: 'type cast': conversion from 'DWORD' to 'matrix3x4_t **' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(193): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(193): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(207): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(207): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(207): warning C4312: 'type cast': conversion from 'DWORD' to 'SDK::CAnimationLayer **' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(211): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(211): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(211): warning C4312: 'type cast': conversion from 'DWORD' to 'SDK::CAnimationLayer **' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(224): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'int (__cdecl *)(void *,SDK::studiohdr_t *,int)' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(264): warning C4244: 'argument': conversion from 'ULONGLONG' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(308): warning C4312: 'type cast': conversion from 'DWORD' to 'Fn' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(323): warning C4312: 'type cast': conversion from 'DWORD' to 'Fn' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(333): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(333): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(333): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(337): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(337): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(337): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(354): warning C4311: '<function-style-cast>': pointer truncation from 'SDK::CBaseEntity *' to 'uint32_t'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(354): warning C4302: '<function-style-cast>': truncation from 'SDK::CBaseEntity *' to 'uint32_t'
+  menu_framework.cpp
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(146): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(148): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(150): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(152): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(154): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(156): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_framework.cpp(87): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_framework.cpp(89): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_framework.cpp(113): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_framework.cpp(114): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_framework.cpp(133): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_framework.cpp(148): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_framework.cpp(180): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_framework.cpp(197): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_framework.cpp(213): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_framework.cpp(236): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_framework.cpp(234): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_framework.cpp(244): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_framework.cpp(243): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_framework.cpp(253): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+  menu_commands.cpp
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(146): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(148): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(150): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(152): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(154): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(156): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(51): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(52): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(54): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(55): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(72): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(88): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(87): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(94): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(95): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(97): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(98): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(100): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(101): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(126): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(125): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(164): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(164): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(172): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(171): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(179): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(184): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(183): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(187): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(186): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(185): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(189): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(196): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(195): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(201): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(200): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(216): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(215): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(224): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(223): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(261): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(263): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(264): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(321): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(321): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(328): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(327): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(331): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(330): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(338): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(337): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(347): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(404): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(404): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(411): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(410): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(414): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(413): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(422): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(452): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(495): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(494): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(498): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(497): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(503): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(507): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(514): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(522): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(521): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(525): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(530): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(529): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(535): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(536): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(567): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(590): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(638): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(638): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(646): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(645): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(648): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(647): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(658): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(657): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(660): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(659): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(669): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(675): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(674): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(725): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(730): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(748): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(748): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(757): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(756): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(768): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(767): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(772): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(779): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(778): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(784): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(783): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(788): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(799): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(804): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(855): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(856): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(886): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(885): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(892): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(920): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(919): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(942): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(943): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(988): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(1023): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(1046): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(1047): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(1050): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(1051): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(1055): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(1063): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(1064): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(1067): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(1076): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(1079): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(1078): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(1077): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(1084): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(1090): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(1095): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(1098): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(1103): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(1104): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(1108): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(1111): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(1112): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(1117): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(1122): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(1124): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(1127): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(1129): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(1130): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(1143): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(1167): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(1172): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(1176): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\menu\menu_commands.cpp(1202): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  main.cpp
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(146): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(148): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(150): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(152): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(154): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(156): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\main.cpp(40): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\main.cpp(72): warning C4312: 'type cast': conversion from 'unsigned int' to 'HANDLE' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\main.cpp(95): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(242): note: see declaration of 'freopen'
+c:\users\michael\documents\github\ascendancy\pener sdk\main.cpp(96): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(242): note: see declaration of 'freopen'
+  Visuals.cpp
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(146): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(148): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(150): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(152): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(154): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(156): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\checksum_crc.h(153): warning C4311: 'type cast': pointer truncation from 'unsigned char *' to 'unsigned int'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\checksum_crc.h(153): warning C4302: 'type cast': truncation from 'unsigned char *' to 'unsigned int'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\convar.h(74): warning C4311: 'type cast': pointer truncation from 'const SDK::ConVar *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\convar.h(74): warning C4302: 'type cast': truncation from 'const SDK::ConVar *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\backtracking.h(297): warning C4311: 'type cast': pointer truncation from 'void *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\backtracking.h(297): warning C4302: 'type cast': truncation from 'void *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\backtracking.h(297): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'VarMapping_t *' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(82): warning C4244: '=': conversion from 'uintptr_t' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(99): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseAnimating *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(99): warning C4302: 'type cast': truncation from 'SDK::CBaseAnimating *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(99): warning C4312: 'type cast': conversion from 'DWORD' to 'matrix3x4_t **' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(115): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseAnimating *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(115): warning C4302: 'type cast': truncation from 'SDK::CBaseAnimating *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(115): warning C4312: 'type cast': conversion from 'DWORD' to 'matrix3x4_t **' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(193): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(193): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(207): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(207): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(207): warning C4312: 'type cast': conversion from 'DWORD' to 'SDK::CAnimationLayer **' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(211): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(211): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(211): warning C4312: 'type cast': conversion from 'DWORD' to 'SDK::CAnimationLayer **' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(224): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'int (__cdecl *)(void *,SDK::studiohdr_t *,int)' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(264): warning C4244: 'argument': conversion from 'ULONGLONG' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(308): warning C4312: 'type cast': conversion from 'DWORD' to 'Fn' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(323): warning C4312: 'type cast': conversion from 'DWORD' to 'Fn' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(333): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(333): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(333): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(337): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(337): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(337): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(354): warning C4311: '<function-style-cast>': pointer truncation from 'SDK::CBaseEntity *' to 'uint32_t'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(354): warning C4302: '<function-style-cast>': truncation from 'SDK::CBaseEntity *' to 'uint32_t'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseweapon.h(160): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseWeapon *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseweapon.h(160): warning C4302: 'type cast': truncation from 'SDK::CBaseWeapon *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseweapon.h(160): warning C4312: 'type cast': conversion from 'DWORD' to 'int *' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\features\visuals.cpp(66): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\features\visuals.cpp(67): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\features\visuals.cpp(79): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\features\visuals.cpp(140): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\features\visuals.cpp(143): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\features\visuals.cpp(144): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\features\visuals.cpp(145): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\features\visuals.cpp(178): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\features\visuals.cpp(180): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\features\visuals.cpp(235): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\features\visuals.cpp(237): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\features\visuals.cpp(250): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\features\visuals.cpp(251): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\features\visuals.cpp(256): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\features\visuals.cpp(262): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\features\visuals.cpp(263): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\features\visuals.cpp(264): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\features\visuals.cpp(300): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+c:\users\michael\documents\github\ascendancy\pener sdk\features\visuals.cpp(340): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\features\visuals.cpp(345): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\features\visuals.cpp(478): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\features\visuals.cpp(504): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\features\visuals.cpp(595): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\features\visuals.cpp(596): warning C4305: '*=': truncation from 'double' to 'float'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\visuals.cpp(598): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\features\visuals.cpp(602): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\features\visuals.cpp(603): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\features\visuals.cpp(605): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\features\visuals.cpp(655): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\visuals.cpp(663): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\visuals.cpp(674): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\visuals.cpp(738): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+  Resolver.cpp
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(146): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(148): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(150): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(152): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(154): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(156): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\checksum_crc.h(153): warning C4311: 'type cast': pointer truncation from 'unsigned char *' to 'unsigned int'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\checksum_crc.h(153): warning C4302: 'type cast': truncation from 'unsigned char *' to 'unsigned int'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(82): warning C4244: '=': conversion from 'uintptr_t' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(99): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseAnimating *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(99): warning C4302: 'type cast': truncation from 'SDK::CBaseAnimating *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(99): warning C4312: 'type cast': conversion from 'DWORD' to 'matrix3x4_t **' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(115): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseAnimating *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(115): warning C4302: 'type cast': truncation from 'SDK::CBaseAnimating *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(115): warning C4312: 'type cast': conversion from 'DWORD' to 'matrix3x4_t **' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(193): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(193): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(207): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(207): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(207): warning C4312: 'type cast': conversion from 'DWORD' to 'SDK::CAnimationLayer **' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(211): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(211): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(211): warning C4312: 'type cast': conversion from 'DWORD' to 'SDK::CAnimationLayer **' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(224): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'int (__cdecl *)(void *,SDK::studiohdr_t *,int)' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(264): warning C4244: 'argument': conversion from 'ULONGLONG' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(308): warning C4312: 'type cast': conversion from 'DWORD' to 'Fn' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(323): warning C4312: 'type cast': conversion from 'DWORD' to 'Fn' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(333): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(333): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(333): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(337): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(337): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(337): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(354): warning C4311: '<function-style-cast>': pointer truncation from 'SDK::CBaseEntity *' to 'uint32_t'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(354): warning C4302: '<function-style-cast>': truncation from 'SDK::CBaseEntity *' to 'uint32_t'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseweapon.h(160): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseWeapon *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseweapon.h(160): warning C4302: 'type cast': truncation from 'SDK::CBaseWeapon *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseweapon.h(160): warning C4312: 'type cast': conversion from 'DWORD' to 'int *' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\convar.h(74): warning C4311: 'type cast': pointer truncation from 'const SDK::ConVar *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\convar.h(74): warning C4302: 'type cast': truncation from 'const SDK::ConVar *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\resolver.cpp(22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\features\resolver.cpp(55): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\features\resolver.cpp(107): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\features\resolver.cpp(108): warning C4267: '/=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\features\resolver.cpp(110): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\features\resolver.cpp(113): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\features\resolver.cpp(170): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Compiling...
+  Movement.cpp
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(146): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(148): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(150): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(152): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(154): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(156): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\checksum_crc.h(153): warning C4311: 'type cast': pointer truncation from 'unsigned char *' to 'unsigned int'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\checksum_crc.h(153): warning C4302: 'type cast': truncation from 'unsigned char *' to 'unsigned int'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(82): warning C4244: '=': conversion from 'uintptr_t' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(99): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseAnimating *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(99): warning C4302: 'type cast': truncation from 'SDK::CBaseAnimating *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(99): warning C4312: 'type cast': conversion from 'DWORD' to 'matrix3x4_t **' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(115): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseAnimating *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(115): warning C4302: 'type cast': truncation from 'SDK::CBaseAnimating *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(115): warning C4312: 'type cast': conversion from 'DWORD' to 'matrix3x4_t **' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(193): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(193): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(207): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(207): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(207): warning C4312: 'type cast': conversion from 'DWORD' to 'SDK::CAnimationLayer **' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(211): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(211): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(211): warning C4312: 'type cast': conversion from 'DWORD' to 'SDK::CAnimationLayer **' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(224): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'int (__cdecl *)(void *,SDK::studiohdr_t *,int)' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(264): warning C4244: 'argument': conversion from 'ULONGLONG' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(308): warning C4312: 'type cast': conversion from 'DWORD' to 'Fn' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(323): warning C4312: 'type cast': conversion from 'DWORD' to 'Fn' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(333): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(333): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(333): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(337): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(337): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(337): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(354): warning C4311: '<function-style-cast>': pointer truncation from 'SDK::CBaseEntity *' to 'uint32_t'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(354): warning C4302: '<function-style-cast>': truncation from 'SDK::CBaseEntity *' to 'uint32_t'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\movement.cpp(38): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\features\movement.cpp(42): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Fakewalk.cpp
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(146): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(148): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(150): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(152): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(154): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(156): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\checksum_crc.h(153): warning C4311: 'type cast': pointer truncation from 'unsigned char *' to 'unsigned int'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\checksum_crc.h(153): warning C4302: 'type cast': truncation from 'unsigned char *' to 'unsigned int'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(82): warning C4244: '=': conversion from 'uintptr_t' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(99): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseAnimating *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(99): warning C4302: 'type cast': truncation from 'SDK::CBaseAnimating *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(99): warning C4312: 'type cast': conversion from 'DWORD' to 'matrix3x4_t **' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(115): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseAnimating *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(115): warning C4302: 'type cast': truncation from 'SDK::CBaseAnimating *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(115): warning C4312: 'type cast': conversion from 'DWORD' to 'matrix3x4_t **' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(193): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(193): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(207): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(207): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(207): warning C4312: 'type cast': conversion from 'DWORD' to 'SDK::CAnimationLayer **' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(211): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(211): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(211): warning C4312: 'type cast': conversion from 'DWORD' to 'SDK::CAnimationLayer **' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(224): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'int (__cdecl *)(void *,SDK::studiohdr_t *,int)' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(264): warning C4244: 'argument': conversion from 'ULONGLONG' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(308): warning C4312: 'type cast': conversion from 'DWORD' to 'Fn' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(323): warning C4312: 'type cast': conversion from 'DWORD' to 'Fn' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(333): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(333): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(333): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(337): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(337): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(337): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(354): warning C4311: '<function-style-cast>': pointer truncation from 'SDK::CBaseEntity *' to 'uint32_t'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(354): warning C4302: '<function-style-cast>': truncation from 'SDK::CBaseEntity *' to 'uint32_t'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseweapon.h(160): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseWeapon *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseweapon.h(160): warning C4302: 'type cast': truncation from 'SDK::CBaseWeapon *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseweapon.h(160): warning C4312: 'type cast': conversion from 'DWORD' to 'int *' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\convar.h(74): warning C4311: 'type cast': pointer truncation from 'const SDK::ConVar *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\convar.h(74): warning C4302: 'type cast': truncation from 'const SDK::ConVar *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(59): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(61): error C2065: 'MOV': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(61): error C2146: syntax error: missing ';' before identifier 'EAX'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(61): error C2065: 'EAX': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(62): error C2146: syntax error: missing ';' before identifier 'LEA'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(62): error C2065: 'LEA': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(62): error C2146: syntax error: missing ';' before identifier 'ECX'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(62): error C2065: 'ECX': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(63): error C2146: syntax error: missing ';' before identifier 'PUSH'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(63): error C2065: 'PUSH': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(64): error C2146: syntax error: missing ';' before identifier 'ECX'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(63): error C2065: 'ECX': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(64): error C2146: syntax error: missing ';' before identifier 'PUSH'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(64): error C2065: 'PUSH': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(65): error C2146: syntax error: missing ';' before identifier 'EAX'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(64): error C2065: 'EAX': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(65): error C2146: syntax error: missing ';' before identifier 'PUSH'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(65): error C2065: 'PUSH': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(66): error C2146: syntax error: missing ';' before identifier 'mask'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(66): error C2146: syntax error: missing ';' before identifier 'LEA'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(66): error C2065: 'LEA': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(66): error C2146: syntax error: missing ';' before identifier 'EDX'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(66): error C2065: 'EDX': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(67): error C2146: syntax error: missing ';' before identifier 'LEA'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(67): error C2065: 'LEA': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(67): error C2146: syntax error: missing ';' before identifier 'ECX'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(67): error C2065: 'ECX': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(68): error C2146: syntax error: missing ';' before identifier 'CALL'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(68): error C2065: 'CALL': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(69): error C2146: syntax error: missing ';' before identifier 'dwAddress'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(69): error C2146: syntax error: missing ';' before identifier 'ADD'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(69): error C2065: 'ADD': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(69): error C2146: syntax error: missing ';' before identifier 'ESP'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(69): error C2065: 'ESP': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(70): error C2143: syntax error: missing ';' before '}'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\fakewalk.cpp(27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  FakeLag.cpp
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(146): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(148): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(150): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(152): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(154): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(156): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\checksum_crc.h(153): warning C4311: 'type cast': pointer truncation from 'unsigned char *' to 'unsigned int'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\checksum_crc.h(153): warning C4302: 'type cast': truncation from 'unsigned char *' to 'unsigned int'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(82): warning C4244: '=': conversion from 'uintptr_t' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(99): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseAnimating *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(99): warning C4302: 'type cast': truncation from 'SDK::CBaseAnimating *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(99): warning C4312: 'type cast': conversion from 'DWORD' to 'matrix3x4_t **' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(115): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseAnimating *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(115): warning C4302: 'type cast': truncation from 'SDK::CBaseAnimating *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(115): warning C4312: 'type cast': conversion from 'DWORD' to 'matrix3x4_t **' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(193): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(193): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(207): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(207): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(207): warning C4312: 'type cast': conversion from 'DWORD' to 'SDK::CAnimationLayer **' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(211): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(211): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(211): warning C4312: 'type cast': conversion from 'DWORD' to 'SDK::CAnimationLayer **' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(224): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'int (__cdecl *)(void *,SDK::studiohdr_t *,int)' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(264): warning C4244: 'argument': conversion from 'ULONGLONG' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(308): warning C4312: 'type cast': conversion from 'DWORD' to 'Fn' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(323): warning C4312: 'type cast': conversion from 'DWORD' to 'Fn' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(333): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(333): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(333): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(337): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(337): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(337): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(354): warning C4311: '<function-style-cast>': pointer truncation from 'SDK::CBaseEntity *' to 'uint32_t'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(354): warning C4302: '<function-style-cast>': truncation from 'SDK::CBaseEntity *' to 'uint32_t'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseweapon.h(160): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseWeapon *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseweapon.h(160): warning C4302: 'type cast': truncation from 'SDK::CBaseWeapon *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseweapon.h(160): warning C4312: 'type cast': conversion from 'DWORD' to 'int *' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\convar.h(74): warning C4311: 'type cast': pointer truncation from 'const SDK::ConVar *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\convar.h(74): warning C4302: 'type cast': truncation from 'const SDK::ConVar *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(59): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(61): error C2065: 'MOV': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(61): error C2146: syntax error: missing ';' before identifier 'EAX'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(61): error C2065: 'EAX': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(62): error C2146: syntax error: missing ';' before identifier 'LEA'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(62): error C2065: 'LEA': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(62): error C2146: syntax error: missing ';' before identifier 'ECX'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(62): error C2065: 'ECX': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(63): error C2146: syntax error: missing ';' before identifier 'PUSH'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(63): error C2065: 'PUSH': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(64): error C2146: syntax error: missing ';' before identifier 'ECX'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(63): error C2065: 'ECX': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(64): error C2146: syntax error: missing ';' before identifier 'PUSH'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(64): error C2065: 'PUSH': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(65): error C2146: syntax error: missing ';' before identifier 'EAX'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(64): error C2065: 'EAX': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(65): error C2146: syntax error: missing ';' before identifier 'PUSH'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(65): error C2065: 'PUSH': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(66): error C2146: syntax error: missing ';' before identifier 'mask'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(66): error C2146: syntax error: missing ';' before identifier 'LEA'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(66): error C2065: 'LEA': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(66): error C2146: syntax error: missing ';' before identifier 'EDX'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(66): error C2065: 'EDX': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(67): error C2146: syntax error: missing ';' before identifier 'LEA'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(67): error C2065: 'LEA': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(67): error C2146: syntax error: missing ';' before identifier 'ECX'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(67): error C2065: 'ECX': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(68): error C2146: syntax error: missing ';' before identifier 'CALL'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(68): error C2065: 'CALL': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(69): error C2146: syntax error: missing ';' before identifier 'dwAddress'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(69): error C2146: syntax error: missing ';' before identifier 'ADD'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(69): error C2065: 'ADD': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(69): error C2146: syntax error: missing ';' before identifier 'ESP'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(69): error C2065: 'ESP': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(70): error C2143: syntax error: missing ';' before '}'
+  EventListener.cpp
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(146): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(148): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(150): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(152): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(154): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(156): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(82): warning C4244: '=': conversion from 'uintptr_t' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(99): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseAnimating *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(99): warning C4302: 'type cast': truncation from 'SDK::CBaseAnimating *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(99): warning C4312: 'type cast': conversion from 'DWORD' to 'matrix3x4_t **' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(115): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseAnimating *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(115): warning C4302: 'type cast': truncation from 'SDK::CBaseAnimating *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(115): warning C4312: 'type cast': conversion from 'DWORD' to 'matrix3x4_t **' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(193): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(193): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(207): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(207): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(207): warning C4312: 'type cast': conversion from 'DWORD' to 'SDK::CAnimationLayer **' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(211): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(211): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(211): warning C4312: 'type cast': conversion from 'DWORD' to 'SDK::CAnimationLayer **' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(224): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'int (__cdecl *)(void *,SDK::studiohdr_t *,int)' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(264): warning C4244: 'argument': conversion from 'ULONGLONG' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(308): warning C4312: 'type cast': conversion from 'DWORD' to 'Fn' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(323): warning C4312: 'type cast': conversion from 'DWORD' to 'Fn' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(333): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(333): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(333): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(337): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(337): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(337): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(354): warning C4311: '<function-style-cast>': pointer truncation from 'SDK::CBaseEntity *' to 'uint32_t'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(354): warning C4302: '<function-style-cast>': truncation from 'SDK::CBaseEntity *' to 'uint32_t'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\backtracking.h(297): warning C4311: 'type cast': pointer truncation from 'void *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\backtracking.h(297): warning C4302: 'type cast': truncation from 'void *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\backtracking.h(297): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'VarMapping_t *' of greater size
+  Chams.cpp
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(146): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(148): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(150): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(152): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(154): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(156): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\checksum_crc.h(153): warning C4311: 'type cast': pointer truncation from 'unsigned char *' to 'unsigned int'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\checksum_crc.h(153): warning C4302: 'type cast': truncation from 'unsigned char *' to 'unsigned int'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(82): warning C4244: '=': conversion from 'uintptr_t' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(99): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseAnimating *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(99): warning C4302: 'type cast': truncation from 'SDK::CBaseAnimating *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(99): warning C4312: 'type cast': conversion from 'DWORD' to 'matrix3x4_t **' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(115): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseAnimating *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(115): warning C4302: 'type cast': truncation from 'SDK::CBaseAnimating *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(115): warning C4312: 'type cast': conversion from 'DWORD' to 'matrix3x4_t **' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(193): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(193): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(207): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(207): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(207): warning C4312: 'type cast': conversion from 'DWORD' to 'SDK::CAnimationLayer **' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(211): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(211): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(211): warning C4312: 'type cast': conversion from 'DWORD' to 'SDK::CAnimationLayer **' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(224): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'int (__cdecl *)(void *,SDK::studiohdr_t *,int)' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(264): warning C4244: 'argument': conversion from 'ULONGLONG' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(308): warning C4312: 'type cast': conversion from 'DWORD' to 'Fn' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(323): warning C4312: 'type cast': conversion from 'DWORD' to 'Fn' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(333): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(333): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(333): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(337): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(337): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(337): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(354): warning C4311: '<function-style-cast>': pointer truncation from 'SDK::CBaseEntity *' to 'uint32_t'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(354): warning C4302: '<function-style-cast>': truncation from 'SDK::CBaseEntity *' to 'uint32_t'
+  Backtracking.cpp
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(146): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(148): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(150): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(152): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(154): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(156): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\checksum_crc.h(153): warning C4311: 'type cast': pointer truncation from 'unsigned char *' to 'unsigned int'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\checksum_crc.h(153): warning C4302: 'type cast': truncation from 'unsigned char *' to 'unsigned int'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(82): warning C4244: '=': conversion from 'uintptr_t' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(99): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseAnimating *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(99): warning C4302: 'type cast': truncation from 'SDK::CBaseAnimating *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(99): warning C4312: 'type cast': conversion from 'DWORD' to 'matrix3x4_t **' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(115): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseAnimating *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(115): warning C4302: 'type cast': truncation from 'SDK::CBaseAnimating *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(115): warning C4312: 'type cast': conversion from 'DWORD' to 'matrix3x4_t **' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(193): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(193): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(207): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(207): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(207): warning C4312: 'type cast': conversion from 'DWORD' to 'SDK::CAnimationLayer **' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(211): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(211): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(211): warning C4312: 'type cast': conversion from 'DWORD' to 'SDK::CAnimationLayer **' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(224): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'int (__cdecl *)(void *,SDK::studiohdr_t *,int)' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(264): warning C4244: 'argument': conversion from 'ULONGLONG' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(308): warning C4312: 'type cast': conversion from 'DWORD' to 'Fn' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(323): warning C4312: 'type cast': conversion from 'DWORD' to 'Fn' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(333): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(333): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(333): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(337): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(337): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(337): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(354): warning C4311: '<function-style-cast>': pointer truncation from 'SDK::CBaseEntity *' to 'uint32_t'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(354): warning C4302: '<function-style-cast>': truncation from 'SDK::CBaseEntity *' to 'uint32_t'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseweapon.h(160): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseWeapon *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseweapon.h(160): warning C4302: 'type cast': truncation from 'SDK::CBaseWeapon *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseweapon.h(160): warning C4312: 'type cast': conversion from 'DWORD' to 'int *' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\convar.h(74): warning C4311: 'type cast': pointer truncation from 'const SDK::ConVar *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\convar.h(74): warning C4302: 'type cast': truncation from 'const SDK::ConVar *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(59): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(61): error C2065: 'MOV': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(61): error C2146: syntax error: missing ';' before identifier 'EAX'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(61): error C2065: 'EAX': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(62): error C2146: syntax error: missing ';' before identifier 'LEA'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(62): error C2065: 'LEA': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(62): error C2146: syntax error: missing ';' before identifier 'ECX'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(62): error C2065: 'ECX': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(63): error C2146: syntax error: missing ';' before identifier 'PUSH'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(63): error C2065: 'PUSH': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(64): error C2146: syntax error: missing ';' before identifier 'ECX'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(63): error C2065: 'ECX': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(64): error C2146: syntax error: missing ';' before identifier 'PUSH'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(64): error C2065: 'PUSH': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(65): error C2146: syntax error: missing ';' before identifier 'EAX'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(64): error C2065: 'EAX': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(65): error C2146: syntax error: missing ';' before identifier 'PUSH'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(65): error C2065: 'PUSH': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(66): error C2146: syntax error: missing ';' before identifier 'mask'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(66): error C2146: syntax error: missing ';' before identifier 'LEA'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(66): error C2065: 'LEA': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(66): error C2146: syntax error: missing ';' before identifier 'EDX'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(66): error C2065: 'EDX': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(67): error C2146: syntax error: missing ';' before identifier 'LEA'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(67): error C2065: 'LEA': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(67): error C2146: syntax error: missing ';' before identifier 'ECX'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(67): error C2065: 'ECX': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(68): error C2146: syntax error: missing ';' before identifier 'CALL'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(68): error C2065: 'CALL': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(69): error C2146: syntax error: missing ';' before identifier 'dwAddress'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(69): error C2146: syntax error: missing ';' before identifier 'ADD'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(69): error C2065: 'ADD': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(69): error C2146: syntax error: missing ';' before identifier 'ESP'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(69): error C2065: 'ESP': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(70): error C2143: syntax error: missing ';' before '}'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\backtracking.h(297): warning C4311: 'type cast': pointer truncation from 'void *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\backtracking.h(297): warning C4302: 'type cast': truncation from 'void *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\backtracking.h(297): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'VarMapping_t *' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\features\backtracking.cpp(325): warning C4804: '>': unsafe use of type 'bool' in operation
+c:\users\michael\documents\github\ascendancy\pener sdk\features\backtracking.cpp(328): warning C4804: '>': unsafe use of type 'bool' in operation
+c:\users\michael\documents\github\ascendancy\pener sdk\features\backtracking.cpp(415): warning C4804: '>': unsafe use of type 'bool' in operation
+  AutoWall.cpp
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(146): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(148): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(150): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(152): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(154): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(156): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(82): warning C4244: '=': conversion from 'uintptr_t' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(99): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseAnimating *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(99): warning C4302: 'type cast': truncation from 'SDK::CBaseAnimating *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(99): warning C4312: 'type cast': conversion from 'DWORD' to 'matrix3x4_t **' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(115): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseAnimating *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(115): warning C4302: 'type cast': truncation from 'SDK::CBaseAnimating *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(115): warning C4312: 'type cast': conversion from 'DWORD' to 'matrix3x4_t **' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(193): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(193): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(207): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(207): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(207): warning C4312: 'type cast': conversion from 'DWORD' to 'SDK::CAnimationLayer **' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(211): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(211): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(211): warning C4312: 'type cast': conversion from 'DWORD' to 'SDK::CAnimationLayer **' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(224): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'int (__cdecl *)(void *,SDK::studiohdr_t *,int)' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(264): warning C4244: 'argument': conversion from 'ULONGLONG' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(308): warning C4312: 'type cast': conversion from 'DWORD' to 'Fn' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(323): warning C4312: 'type cast': conversion from 'DWORD' to 'Fn' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(333): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(333): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(333): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(337): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(337): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(337): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(354): warning C4311: '<function-style-cast>': pointer truncation from 'SDK::CBaseEntity *' to 'uint32_t'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(354): warning C4302: '<function-style-cast>': truncation from 'SDK::CBaseEntity *' to 'uint32_t'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseweapon.h(160): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseWeapon *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseweapon.h(160): warning C4302: 'type cast': truncation from 'SDK::CBaseWeapon *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseweapon.h(160): warning C4312: 'type cast': conversion from 'DWORD' to 'int *' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(59): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(61): error C2065: 'MOV': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(61): error C2146: syntax error: missing ';' before identifier 'EAX'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(61): error C2065: 'EAX': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(62): error C2146: syntax error: missing ';' before identifier 'LEA'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(62): error C2065: 'LEA': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(62): error C2146: syntax error: missing ';' before identifier 'ECX'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(62): error C2065: 'ECX': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(63): error C2146: syntax error: missing ';' before identifier 'PUSH'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(63): error C2065: 'PUSH': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(64): error C2146: syntax error: missing ';' before identifier 'ECX'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(63): error C2065: 'ECX': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(64): error C2146: syntax error: missing ';' before identifier 'PUSH'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(64): error C2065: 'PUSH': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(65): error C2146: syntax error: missing ';' before identifier 'EAX'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(64): error C2065: 'EAX': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(65): error C2146: syntax error: missing ';' before identifier 'PUSH'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(65): error C2065: 'PUSH': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(66): error C2146: syntax error: missing ';' before identifier 'mask'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(66): error C2146: syntax error: missing ';' before identifier 'LEA'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(66): error C2065: 'LEA': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(66): error C2146: syntax error: missing ';' before identifier 'EDX'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(66): error C2065: 'EDX': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(67): error C2146: syntax error: missing ';' before identifier 'LEA'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(67): error C2065: 'LEA': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(67): error C2146: syntax error: missing ';' before identifier 'ECX'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(67): error C2065: 'ECX': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(68): error C2146: syntax error: missing ';' before identifier 'CALL'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(68): error C2065: 'CALL': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(69): error C2146: syntax error: missing ';' before identifier 'dwAddress'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(69): error C2146: syntax error: missing ';' before identifier 'ADD'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(69): error C2065: 'ADD': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(69): error C2146: syntax error: missing ';' before identifier 'ESP'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(69): error C2065: 'ESP': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(70): error C2143: syntax error: missing ';' before '}'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.cpp(62): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.cpp(75): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.cpp(96): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.cpp(115): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'HandleBulletPenetrationFn' of greater size
+  AntiAim.cpp
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(146): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(148): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(150): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(152): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(154): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(156): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\checksum_crc.h(153): warning C4311: 'type cast': pointer truncation from 'unsigned char *' to 'unsigned int'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\checksum_crc.h(153): warning C4302: 'type cast': truncation from 'unsigned char *' to 'unsigned int'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(82): warning C4244: '=': conversion from 'uintptr_t' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(99): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseAnimating *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(99): warning C4302: 'type cast': truncation from 'SDK::CBaseAnimating *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(99): warning C4312: 'type cast': conversion from 'DWORD' to 'matrix3x4_t **' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(115): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseAnimating *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(115): warning C4302: 'type cast': truncation from 'SDK::CBaseAnimating *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(115): warning C4312: 'type cast': conversion from 'DWORD' to 'matrix3x4_t **' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(193): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(193): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(207): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(207): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(207): warning C4312: 'type cast': conversion from 'DWORD' to 'SDK::CAnimationLayer **' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(211): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(211): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(211): warning C4312: 'type cast': conversion from 'DWORD' to 'SDK::CAnimationLayer **' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(224): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'int (__cdecl *)(void *,SDK::studiohdr_t *,int)' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(264): warning C4244: 'argument': conversion from 'ULONGLONG' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(308): warning C4312: 'type cast': conversion from 'DWORD' to 'Fn' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(323): warning C4312: 'type cast': conversion from 'DWORD' to 'Fn' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(333): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(333): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(333): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(337): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(337): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(337): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(354): warning C4311: '<function-style-cast>': pointer truncation from 'SDK::CBaseEntity *' to 'uint32_t'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(354): warning C4302: '<function-style-cast>': truncation from 'SDK::CBaseEntity *' to 'uint32_t'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseweapon.h(160): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseWeapon *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseweapon.h(160): warning C4302: 'type cast': truncation from 'SDK::CBaseWeapon *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseweapon.h(160): warning C4312: 'type cast': conversion from 'DWORD' to 'int *' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\features\antiaim.cpp(27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\features\antiaim.cpp(42): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\features\antiaim.cpp(43): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\features\antiaim.cpp(65): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\features\antiaim.cpp(70): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Aimbot.cpp
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(146): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(148): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(150): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(152): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(154): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\utils\color.h(156): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\checksum_crc.h(153): warning C4311: 'type cast': pointer truncation from 'unsigned char *' to 'unsigned int'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\checksum_crc.h(153): warning C4302: 'type cast': truncation from 'unsigned char *' to 'unsigned int'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(82): warning C4244: '=': conversion from 'uintptr_t' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(99): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseAnimating *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(99): warning C4302: 'type cast': truncation from 'SDK::CBaseAnimating *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(99): warning C4312: 'type cast': conversion from 'DWORD' to 'matrix3x4_t **' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(115): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseAnimating *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(115): warning C4302: 'type cast': truncation from 'SDK::CBaseAnimating *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(115): warning C4312: 'type cast': conversion from 'DWORD' to 'matrix3x4_t **' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(193): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(193): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(207): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(207): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(207): warning C4312: 'type cast': conversion from 'DWORD' to 'SDK::CAnimationLayer **' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(211): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(211): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(211): warning C4312: 'type cast': conversion from 'DWORD' to 'SDK::CAnimationLayer **' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(224): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'int (__cdecl *)(void *,SDK::studiohdr_t *,int)' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(264): warning C4244: 'argument': conversion from 'ULONGLONG' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(308): warning C4312: 'type cast': conversion from 'DWORD' to 'Fn' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(323): warning C4312: 'type cast': conversion from 'DWORD' to 'Fn' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(333): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(333): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(333): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(337): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(337): warning C4302: 'type cast': truncation from 'SDK::CBaseEntity *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(337): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(354): warning C4311: '<function-style-cast>': pointer truncation from 'SDK::CBaseEntity *' to 'uint32_t'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseentity.h(354): warning C4302: '<function-style-cast>': truncation from 'SDK::CBaseEntity *' to 'uint32_t'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseweapon.h(160): warning C4311: 'type cast': pointer truncation from 'SDK::CBaseWeapon *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseweapon.h(160): warning C4302: 'type cast': truncation from 'SDK::CBaseWeapon *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\cbaseweapon.h(160): warning C4312: 'type cast': conversion from 'DWORD' to 'int *' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\convar.h(74): warning C4311: 'type cast': pointer truncation from 'const SDK::ConVar *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\sdk\convar.h(74): warning C4302: 'type cast': truncation from 'const SDK::ConVar *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(59): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(61): error C2065: 'MOV': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(61): error C2146: syntax error: missing ';' before identifier 'EAX'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(61): error C2065: 'EAX': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(62): error C2146: syntax error: missing ';' before identifier 'LEA'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(62): error C2065: 'LEA': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(62): error C2146: syntax error: missing ';' before identifier 'ECX'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(62): error C2065: 'ECX': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(63): error C2146: syntax error: missing ';' before identifier 'PUSH'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(63): error C2065: 'PUSH': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(64): error C2146: syntax error: missing ';' before identifier 'ECX'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(63): error C2065: 'ECX': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(64): error C2146: syntax error: missing ';' before identifier 'PUSH'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(64): error C2065: 'PUSH': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(65): error C2146: syntax error: missing ';' before identifier 'EAX'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(64): error C2065: 'EAX': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(65): error C2146: syntax error: missing ';' before identifier 'PUSH'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(65): error C2065: 'PUSH': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(66): error C2146: syntax error: missing ';' before identifier 'mask'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(66): error C2146: syntax error: missing ';' before identifier 'LEA'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(66): error C2065: 'LEA': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(66): error C2146: syntax error: missing ';' before identifier 'EDX'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(66): error C2065: 'EDX': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(67): error C2146: syntax error: missing ';' before identifier 'LEA'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(67): error C2065: 'LEA': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(67): error C2146: syntax error: missing ';' before identifier 'ECX'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(67): error C2065: 'ECX': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(68): error C2146: syntax error: missing ';' before identifier 'CALL'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(68): error C2065: 'CALL': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(69): error C2146: syntax error: missing ';' before identifier 'dwAddress'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(69): error C2146: syntax error: missing ';' before identifier 'ADD'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(69): error C2065: 'ADD': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(69): error C2146: syntax error: missing ';' before identifier 'ESP'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(69): error C2065: 'ESP': undeclared identifier
+c:\users\michael\documents\github\ascendancy\pener sdk\features\autowall.h(70): error C2143: syntax error: missing ';' before '}'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\backtracking.h(297): warning C4311: 'type cast': pointer truncation from 'void *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\backtracking.h(297): warning C4302: 'type cast': truncation from 'void *' to 'DWORD'
+c:\users\michael\documents\github\ascendancy\pener sdk\features\backtracking.h(297): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'VarMapping_t *' of greater size
+c:\users\michael\documents\github\ascendancy\pener sdk\features\aimbot.cpp(16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\features\aimbot.cpp(55): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\features\aimbot.cpp(59): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\michael\documents\github\ascendancy\pener sdk\features\aimbot.cpp(137): warning C4804: '>': unsafe use of type 'bool' in operation
+c:\users\michael\documents\github\ascendancy\pener sdk\features\aimbot.cpp(140): warning C4804: '>': unsafe use of type 'bool' in operation
+c:\users\michael\documents\github\ascendancy\pener sdk\features\aimbot.cpp(339): warning C4305: '=': truncation from 'double' to 'float'
+  Generating Code...

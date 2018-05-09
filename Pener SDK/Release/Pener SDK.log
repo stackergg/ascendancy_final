@@ -1,0 +1,621 @@
+﻿  Aimbot.cpp
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(52): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(52): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(52): error C2275: 'oAllocKeyValuesMemory': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(51): note: see declaration of 'oAllocKeyValuesMemory'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(52): error C2064: term does not evaluate to a function taking 2 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(67): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(67): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(67): error C2275: 'oFreeKeyValuesMemory': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(66): note: see declaration of 'oFreeKeyValuesMemory'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(67): error C2064: term does not evaluate to a function taking 2 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(256): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(256): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(256): error C2275: 'OriginalFn': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(255): note: see declaration of 'OriginalFn'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(256): error C2064: term does not evaluate to a function taking 3 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(261): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(261): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(261): error C2275: 'Fn': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(260): note: see declaration of 'Fn'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(261): error C2064: term does not evaluate to a function taking 2 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(266): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(266): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(266): error C2275: 'Fn': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(265): note: see declaration of 'Fn'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(266): error C2064: term does not evaluate to a function taking 4 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(271): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(271): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(271): error C2275: 'Fn': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(270): note: see declaration of 'Fn'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(271): error C2064: term does not evaluate to a function taking 4 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(276): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(276): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(276): error C2275: 'oGetTextureGroupName': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(275): note: see declaration of 'oGetTextureGroupName'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(276): error C2064: term does not evaluate to a function taking 1 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(281): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(281): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(281): error C2275: 'oGetName': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(280): note: see declaration of 'oGetName'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(286): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(286): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(286): error C2275: 'SetShaderFn': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(285): note: see declaration of 'SetShaderFn'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(286): error C2064: term does not evaluate to a function taking 2 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(291): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(291): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(291): error C2275: 'Fn': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(290): note: see declaration of 'Fn'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(291): error C2064: term does not evaluate to a function taking 1 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(296): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(296): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(296): error C2275: 'Fn': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(295): note: see declaration of 'Fn'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(296): error C2064: term does not evaluate to a function taking 1 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(301): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(301): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(301): error C2275: 'Fn': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(300): note: see declaration of 'Fn'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(301): error C2064: term does not evaluate to a function taking 1 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(307): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(307): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(307): error C2275: 'Fn': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(306): note: see declaration of 'Fn'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(307): error C2064: term does not evaluate to a function taking 4 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(317): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(317): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(317): error C2275: 'tCreateMaterial': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(316): note: see declaration of 'tCreateMaterial'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(317): error C2064: term does not evaluate to a function taking 3 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(322): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(322): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(322): error C2275: 'OriginalFn': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(321): note: see declaration of 'OriginalFn'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(322): error C2064: term does not evaluate to a function taking 5 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(327): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(327): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(327): error C2275: 'oFirstMaterial': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(326): note: see declaration of 'oFirstMaterial'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(327): error C2064: term does not evaluate to a function taking 1 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(333): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(333): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(333): error C2275: 'oNextMaterial': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(332): note: see declaration of 'oNextMaterial'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(333): error C2064: term does not evaluate to a function taking 2 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(339): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(339): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(339): error C2275: 'oInvalidMaterial': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(338): note: see declaration of 'oInvalidMaterial'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(339): error C2064: term does not evaluate to a function taking 1 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(345): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(345): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(345): error C2275: 'oGetMaterial': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(344): note: see declaration of 'oGetMaterial'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(345): error C2064: term does not evaluate to a function taking 2 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\../SDK/ModelInfo.h(672): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\../SDK/ModelInfo.h(672): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\../SDK/ModelInfo.h(672): error C2275: 'Fn': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\../SDK/ModelInfo.h(671): note: see declaration of 'Fn'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\../SDK/ModelInfo.h(672): error C2064: term does not evaluate to a function taking 2 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\../SDK/ModelInfo.h(678): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\../SDK/ModelInfo.h(678): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\../SDK/ModelInfo.h(678): error C2275: 'Fn': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\../SDK/ModelInfo.h(677): note: see declaration of 'Fn'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\../SDK/ModelInfo.h(678): error C2064: term does not evaluate to a function taking 2 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\../SDK/ModelInfo.h(684): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\../SDK/ModelInfo.h(684): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\../SDK/ModelInfo.h(684): error C2275: 'Fn': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\../SDK/ModelInfo.h(683): note: see declaration of 'Fn'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\../SDK/ModelInfo.h(684): error C2064: term does not evaluate to a function taking 4 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\features\../SDK/CBaseEntity.h(109): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\features\../SDK/CBaseEntity.h(109): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\features\../SDK/CBaseEntity.h(109): error C2275: 'fnGetModel': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\features\../SDK/CBaseEntity.h(107): note: see declaration of 'fnGetModel'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\features\../SDK/CBaseEntity.h(109): error C2064: term does not evaluate to a function taking 1 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\features\../SDK/CBaseEntity.h(208): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\features\../SDK/CBaseEntity.h(208): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\features\../SDK/CBaseEntity.h(208): error C2275: 'OriginalFn': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\features\../SDK/CBaseEntity.h(207): note: see declaration of 'OriginalFn'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\features\../SDK/CBaseEntity.h(234): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\features\../SDK/CBaseEntity.h(234): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\features\../SDK/CBaseEntity.h(234): error C2275: 'Fn': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\features\../SDK/CBaseEntity.h(233): note: see declaration of 'Fn'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\features\../SDK/CBaseEntity.h(234): error C2064: term does not evaluate to a function taking 3 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\features\../SDK/CBaseEntity.h(292): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\features\../SDK/CBaseEntity.h(292): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\features\../SDK/CBaseEntity.h(292): error C2275: 'fnGetModel': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\features\../SDK/CBaseEntity.h(290): note: see declaration of 'fnGetModel'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\features\../SDK/CBaseEntity.h(292): fatal error C1003: error count exceeds 100; stopping compilation
+  AnimFix.cpp
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(52): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(52): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(52): error C2275: 'oAllocKeyValuesMemory': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(51): note: see declaration of 'oAllocKeyValuesMemory'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(52): error C2064: term does not evaluate to a function taking 2 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(67): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(67): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(67): error C2275: 'oFreeKeyValuesMemory': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(66): note: see declaration of 'oFreeKeyValuesMemory'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(67): error C2064: term does not evaluate to a function taking 2 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(256): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(256): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(256): error C2275: 'OriginalFn': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(255): note: see declaration of 'OriginalFn'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(256): error C2064: term does not evaluate to a function taking 3 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(261): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(261): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(261): error C2275: 'Fn': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(260): note: see declaration of 'Fn'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(261): error C2064: term does not evaluate to a function taking 2 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(266): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(266): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(266): error C2275: 'Fn': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(265): note: see declaration of 'Fn'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(266): error C2064: term does not evaluate to a function taking 4 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(271): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(271): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(271): error C2275: 'Fn': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(270): note: see declaration of 'Fn'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(271): error C2064: term does not evaluate to a function taking 4 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(276): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(276): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(276): error C2275: 'oGetTextureGroupName': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(275): note: see declaration of 'oGetTextureGroupName'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(276): error C2064: term does not evaluate to a function taking 1 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(281): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(281): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(281): error C2275: 'oGetName': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(280): note: see declaration of 'oGetName'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(286): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(286): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(286): error C2275: 'SetShaderFn': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(285): note: see declaration of 'SetShaderFn'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(286): error C2064: term does not evaluate to a function taking 2 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(291): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(291): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(291): error C2275: 'Fn': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(290): note: see declaration of 'Fn'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(291): error C2064: term does not evaluate to a function taking 1 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(296): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(296): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(296): error C2275: 'Fn': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(295): note: see declaration of 'Fn'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(296): error C2064: term does not evaluate to a function taking 1 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(301): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(301): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(301): error C2275: 'Fn': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(300): note: see declaration of 'Fn'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(301): error C2064: term does not evaluate to a function taking 1 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(307): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(307): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(307): error C2275: 'Fn': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(306): note: see declaration of 'Fn'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(307): error C2064: term does not evaluate to a function taking 4 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(317): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(317): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(317): error C2275: 'tCreateMaterial': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(316): note: see declaration of 'tCreateMaterial'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(317): error C2064: term does not evaluate to a function taking 3 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(322): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(322): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(322): error C2275: 'OriginalFn': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(321): note: see declaration of 'OriginalFn'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(322): error C2064: term does not evaluate to a function taking 5 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(327): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(327): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(327): error C2275: 'oFirstMaterial': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(326): note: see declaration of 'oFirstMaterial'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(327): error C2064: term does not evaluate to a function taking 1 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(333): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(333): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(333): error C2275: 'oNextMaterial': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(332): note: see declaration of 'oNextMaterial'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(333): error C2064: term does not evaluate to a function taking 2 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(339): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(339): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(339): error C2275: 'oInvalidMaterial': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(338): note: see declaration of 'oInvalidMaterial'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(339): error C2064: term does not evaluate to a function taking 1 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(345): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(345): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(345): error C2275: 'oGetMaterial': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(344): note: see declaration of 'oGetMaterial'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(345): error C2064: term does not evaluate to a function taking 2 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\../SDK/ModelInfo.h(672): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\../SDK/ModelInfo.h(672): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\../SDK/ModelInfo.h(672): error C2275: 'Fn': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\../SDK/ModelInfo.h(671): note: see declaration of 'Fn'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\../SDK/ModelInfo.h(672): error C2064: term does not evaluate to a function taking 2 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\../SDK/ModelInfo.h(678): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\../SDK/ModelInfo.h(678): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\../SDK/ModelInfo.h(678): error C2275: 'Fn': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\../SDK/ModelInfo.h(677): note: see declaration of 'Fn'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\../SDK/ModelInfo.h(678): error C2064: term does not evaluate to a function taking 2 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\../SDK/ModelInfo.h(684): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\../SDK/ModelInfo.h(684): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\../SDK/ModelInfo.h(684): error C2275: 'Fn': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\../SDK/ModelInfo.h(683): note: see declaration of 'Fn'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\../SDK/ModelInfo.h(684): error C2064: term does not evaluate to a function taking 4 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\features\../SDK/CBaseEntity.h(109): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\features\../SDK/CBaseEntity.h(109): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\features\../SDK/CBaseEntity.h(109): error C2275: 'fnGetModel': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\features\../SDK/CBaseEntity.h(107): note: see declaration of 'fnGetModel'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\features\../SDK/CBaseEntity.h(109): error C2064: term does not evaluate to a function taking 1 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\features\../SDK/CBaseEntity.h(208): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\features\../SDK/CBaseEntity.h(208): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\features\../SDK/CBaseEntity.h(208): error C2275: 'OriginalFn': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\features\../SDK/CBaseEntity.h(207): note: see declaration of 'OriginalFn'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\features\../SDK/CBaseEntity.h(234): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\features\../SDK/CBaseEntity.h(234): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\features\../SDK/CBaseEntity.h(234): error C2275: 'Fn': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\features\../SDK/CBaseEntity.h(233): note: see declaration of 'Fn'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\features\../SDK/CBaseEntity.h(234): error C2064: term does not evaluate to a function taking 3 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\features\../SDK/CBaseEntity.h(292): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\features\../SDK/CBaseEntity.h(292): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\features\../SDK/CBaseEntity.h(292): error C2275: 'fnGetModel': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\features\../SDK/CBaseEntity.h(290): note: see declaration of 'fnGetModel'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\features\../SDK/CBaseEntity.h(292): fatal error C1003: error count exceeds 100; stopping compilation
+  AntiAim.cpp
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(52): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(52): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(52): error C2275: 'oAllocKeyValuesMemory': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(51): note: see declaration of 'oAllocKeyValuesMemory'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(52): error C2064: term does not evaluate to a function taking 2 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(67): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(67): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(67): error C2275: 'oFreeKeyValuesMemory': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(66): note: see declaration of 'oFreeKeyValuesMemory'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(67): error C2064: term does not evaluate to a function taking 2 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(256): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(256): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(256): error C2275: 'OriginalFn': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(255): note: see declaration of 'OriginalFn'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(256): error C2064: term does not evaluate to a function taking 3 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(261): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(261): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(261): error C2275: 'Fn': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(260): note: see declaration of 'Fn'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(261): error C2064: term does not evaluate to a function taking 2 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(266): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(266): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(266): error C2275: 'Fn': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(265): note: see declaration of 'Fn'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(266): error C2064: term does not evaluate to a function taking 4 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(271): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(271): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(271): error C2275: 'Fn': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(270): note: see declaration of 'Fn'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(271): error C2064: term does not evaluate to a function taking 4 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(276): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(276): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(276): error C2275: 'oGetTextureGroupName': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(275): note: see declaration of 'oGetTextureGroupName'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(276): error C2064: term does not evaluate to a function taking 1 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(281): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(281): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(281): error C2275: 'oGetName': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(280): note: see declaration of 'oGetName'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(286): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(286): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(286): error C2275: 'SetShaderFn': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(285): note: see declaration of 'SetShaderFn'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(286): error C2064: term does not evaluate to a function taking 2 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(291): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(291): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(291): error C2275: 'Fn': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(290): note: see declaration of 'Fn'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(291): error C2064: term does not evaluate to a function taking 1 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(296): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(296): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(296): error C2275: 'Fn': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(295): note: see declaration of 'Fn'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(296): error C2064: term does not evaluate to a function taking 1 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(301): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(301): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(301): error C2275: 'Fn': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(300): note: see declaration of 'Fn'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(301): error C2064: term does not evaluate to a function taking 1 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(307): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(307): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(307): error C2275: 'Fn': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(306): note: see declaration of 'Fn'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(307): error C2064: term does not evaluate to a function taking 4 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(317): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(317): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(317): error C2275: 'tCreateMaterial': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(316): note: see declaration of 'tCreateMaterial'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(317): error C2064: term does not evaluate to a function taking 3 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(322): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(322): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(322): error C2275: 'OriginalFn': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(321): note: see declaration of 'OriginalFn'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(322): error C2064: term does not evaluate to a function taking 5 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(327): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(327): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(327): error C2275: 'oFirstMaterial': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(326): note: see declaration of 'oFirstMaterial'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(327): error C2064: term does not evaluate to a function taking 1 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(333): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(333): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(333): error C2275: 'oNextMaterial': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(332): note: see declaration of 'oNextMaterial'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(333): error C2064: term does not evaluate to a function taking 2 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(339): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(339): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(339): error C2275: 'oInvalidMaterial': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(338): note: see declaration of 'oInvalidMaterial'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(339): error C2064: term does not evaluate to a function taking 1 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(345): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(345): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(345): error C2275: 'oGetMaterial': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(344): note: see declaration of 'oGetMaterial'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(345): error C2064: term does not evaluate to a function taking 2 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\../SDK/ModelInfo.h(672): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\../SDK/ModelInfo.h(672): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\../SDK/ModelInfo.h(672): error C2275: 'Fn': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\../SDK/ModelInfo.h(671): note: see declaration of 'Fn'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\../SDK/ModelInfo.h(672): error C2064: term does not evaluate to a function taking 2 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\../SDK/ModelInfo.h(678): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\../SDK/ModelInfo.h(678): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\../SDK/ModelInfo.h(678): error C2275: 'Fn': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\../SDK/ModelInfo.h(677): note: see declaration of 'Fn'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\../SDK/ModelInfo.h(678): error C2064: term does not evaluate to a function taking 2 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\../SDK/ModelInfo.h(684): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\../SDK/ModelInfo.h(684): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\../SDK/ModelInfo.h(684): error C2275: 'Fn': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\../SDK/ModelInfo.h(683): note: see declaration of 'Fn'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\../SDK/ModelInfo.h(684): error C2064: term does not evaluate to a function taking 4 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\features\../SDK/CBaseEntity.h(109): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\features\../SDK/CBaseEntity.h(109): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\features\../SDK/CBaseEntity.h(109): error C2275: 'fnGetModel': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\features\../SDK/CBaseEntity.h(107): note: see declaration of 'fnGetModel'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\features\../SDK/CBaseEntity.h(109): error C2064: term does not evaluate to a function taking 1 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\features\../SDK/CBaseEntity.h(208): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\features\../SDK/CBaseEntity.h(208): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\features\../SDK/CBaseEntity.h(208): error C2275: 'OriginalFn': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\features\../SDK/CBaseEntity.h(207): note: see declaration of 'OriginalFn'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\features\../SDK/CBaseEntity.h(234): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\features\../SDK/CBaseEntity.h(234): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\features\../SDK/CBaseEntity.h(234): error C2275: 'Fn': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\features\../SDK/CBaseEntity.h(233): note: see declaration of 'Fn'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\features\../SDK/CBaseEntity.h(234): error C2064: term does not evaluate to a function taking 3 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\features\../SDK/CBaseEntity.h(292): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\features\../SDK/CBaseEntity.h(292): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\features\../SDK/CBaseEntity.h(292): error C2275: 'fnGetModel': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\features\../SDK/CBaseEntity.h(290): note: see declaration of 'fnGetModel'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\features\../SDK/CBaseEntity.h(292): fatal error C1003: error count exceeds 100; stopping compilation
+  AutoWall.cpp
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(52): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(52): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(52): error C2275: 'oAllocKeyValuesMemory': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(51): note: see declaration of 'oAllocKeyValuesMemory'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(52): error C2064: term does not evaluate to a function taking 2 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(67): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(67): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(67): error C2275: 'oFreeKeyValuesMemory': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(66): note: see declaration of 'oFreeKeyValuesMemory'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(67): error C2064: term does not evaluate to a function taking 2 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(256): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(256): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(256): error C2275: 'OriginalFn': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(255): note: see declaration of 'OriginalFn'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(256): error C2064: term does not evaluate to a function taking 3 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(261): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(261): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(261): error C2275: 'Fn': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(260): note: see declaration of 'Fn'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(261): error C2064: term does not evaluate to a function taking 2 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(266): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(266): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(266): error C2275: 'Fn': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(265): note: see declaration of 'Fn'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(266): error C2064: term does not evaluate to a function taking 4 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(271): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(271): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(271): error C2275: 'Fn': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(270): note: see declaration of 'Fn'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(271): error C2064: term does not evaluate to a function taking 4 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(276): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(276): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(276): error C2275: 'oGetTextureGroupName': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(275): note: see declaration of 'oGetTextureGroupName'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(276): error C2064: term does not evaluate to a function taking 1 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(281): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(281): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(281): error C2275: 'oGetName': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(280): note: see declaration of 'oGetName'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(286): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(286): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(286): error C2275: 'SetShaderFn': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(285): note: see declaration of 'SetShaderFn'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(286): error C2064: term does not evaluate to a function taking 2 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(291): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(291): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(291): error C2275: 'Fn': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(290): note: see declaration of 'Fn'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(291): error C2064: term does not evaluate to a function taking 1 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(296): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(296): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(296): error C2275: 'Fn': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(295): note: see declaration of 'Fn'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(296): error C2064: term does not evaluate to a function taking 1 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(301): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(301): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(301): error C2275: 'Fn': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(300): note: see declaration of 'Fn'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(301): error C2064: term does not evaluate to a function taking 1 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(307): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(307): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(307): error C2275: 'Fn': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(306): note: see declaration of 'Fn'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(307): error C2064: term does not evaluate to a function taking 4 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(317): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(317): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(317): error C2275: 'tCreateMaterial': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(316): note: see declaration of 'tCreateMaterial'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(317): error C2064: term does not evaluate to a function taking 3 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(322): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(322): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(322): error C2275: 'OriginalFn': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(321): note: see declaration of 'OriginalFn'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(322): error C2064: term does not evaluate to a function taking 5 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(327): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(327): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(327): error C2275: 'oFirstMaterial': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(326): note: see declaration of 'oFirstMaterial'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(327): error C2064: term does not evaluate to a function taking 1 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(333): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(333): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(333): error C2275: 'oNextMaterial': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(332): note: see declaration of 'oNextMaterial'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(333): error C2064: term does not evaluate to a function taking 2 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(339): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(339): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(339): error C2275: 'oInvalidMaterial': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(338): note: see declaration of 'oInvalidMaterial'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(339): error C2064: term does not evaluate to a function taking 1 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(345): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(345): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(345): error C2275: 'oGetMaterial': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(344): note: see declaration of 'oGetMaterial'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\IMaterial.h(345): error C2064: term does not evaluate to a function taking 2 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\../SDK/ModelInfo.h(672): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\../SDK/ModelInfo.h(672): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\../SDK/ModelInfo.h(672): error C2275: 'Fn': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\../SDK/ModelInfo.h(671): note: see declaration of 'Fn'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\../SDK/ModelInfo.h(672): error C2064: term does not evaluate to a function taking 2 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\../SDK/ModelInfo.h(678): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\../SDK/ModelInfo.h(678): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\../SDK/ModelInfo.h(678): error C2275: 'Fn': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\../SDK/ModelInfo.h(677): note: see declaration of 'Fn'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\../SDK/ModelInfo.h(678): error C2064: term does not evaluate to a function taking 2 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\../SDK/ModelInfo.h(684): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\../SDK/ModelInfo.h(684): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\../SDK/ModelInfo.h(684): error C2275: 'Fn': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\../SDK/ModelInfo.h(683): note: see declaration of 'Fn'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\../SDK/ModelInfo.h(684): error C2064: term does not evaluate to a function taking 4 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\CBaseEntity.h(109): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\CBaseEntity.h(109): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\CBaseEntity.h(109): error C2275: 'fnGetModel': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\CBaseEntity.h(107): note: see declaration of 'fnGetModel'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\CBaseEntity.h(109): error C2064: term does not evaluate to a function taking 1 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\CBaseEntity.h(208): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\CBaseEntity.h(208): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\CBaseEntity.h(208): error C2275: 'OriginalFn': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\CBaseEntity.h(207): note: see declaration of 'OriginalFn'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\CBaseEntity.h(234): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\CBaseEntity.h(234): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\CBaseEntity.h(234): error C2275: 'Fn': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\CBaseEntity.h(233): note: see declaration of 'Fn'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\CBaseEntity.h(234): error C2064: term does not evaluate to a function taking 3 arguments
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\CBaseEntity.h(292): error C2039: 'VMTHookManager': is not a member of 'VMT'
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\UTILS\vmt.h(8): note: see declaration of 'VMT'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\CBaseEntity.h(292): error C3083: 'VMTHookManager': the symbol to the left of a '::' must be a type
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\CBaseEntity.h(292): error C2275: 'fnGetModel': illegal use of this type as an expression
+  c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\CBaseEntity.h(290): note: see declaration of 'fnGetModel'
+c:\users\michael\documents\source\repos\skeet dump\pener sdk\sdk\CBaseEntity.h(292): fatal error C1003: error count exceeds 100; stopping compilation
+  Backtracking.cpp
